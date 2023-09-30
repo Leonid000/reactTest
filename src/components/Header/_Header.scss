@@ -1,0 +1,16 @@
+.header {
+    grid-area: h;
+    background-color: rgb(213, 213, 213);
+    padding: 10px;
+    position: relative;
+    -webkit-box-shadow: -1px 11px 8px -9px rgba(34, 60, 80, 0.41);
+    -moz-box-shadow: -1px 11px 8px -9px rgba(34, 60, 80, 0.41);
+    box-shadow: -1px 11px 8px -9px rgba(34, 60, 80, 0.41);
+}
+.img_coca {
+    width: 200px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 70px;
+}
